@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "chatbot-17742",
+    "test": "chatbot-17742"
+  },
+  "targets": {},
+  "etags": {}
+}
